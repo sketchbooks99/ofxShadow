@@ -30,7 +30,7 @@ ofEasyCam cam;
 ```
 
 - ofApp.cpp
-```
+```cpp
 void setup() {
     shadow.setup();
 }
@@ -44,6 +44,7 @@ void draw() {
     < RENDER SCENE >
     shadow.end();
 }
+```
 
 ## TODO:
 - Multiple shadow
