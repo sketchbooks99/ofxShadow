@@ -1,0 +1,30 @@
+﻿  ofxShadow.cpp
+  main.cpp
+  ofApp.cpp
+C:\Users\lunae\Desktop\of0.10.1\libs\openFrameworks\math\ofVec3f.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\..\..\..\addons\ofxShadow\src\ofxShadow.cpp)
+C:\Users\lunae\Desktop\of0.10.1\libs\openFrameworks\math\ofVec2f.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています ..\..\..\..\addons\ofxShadow\src\ofxShadow.cpp)
+C:\Users\lunae\Desktop\of0.10.1\libs\openFrameworks\math\ofVec3f.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています src\main.cpp)
+C:\Users\lunae\Desktop\of0.10.1\libs\openFrameworks\math\ofVec2f.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています src\main.cpp)
+C:\Users\lunae\Desktop\of0.10.1\libs\openFrameworks\math\ofVec3f.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています src\ofApp.cpp)
+C:\Users\lunae\Desktop\of0.10.1\libs\openFrameworks\math\ofVec2f.h : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。 (ソース ファイルをコンパイルしています src\ofApp.cpp)
+C:\Users\lunae\Desktop\of0.10.1\addons\ofxShadow\examples\simpleExample\src\ofApp.cpp(59): warning C4996: 'ofRotate': Use ofRotateDeg or ofRotateRad
+  C:\Users\lunae\Desktop\of0.10.1\libs\openFrameworks\graphics\ofGraphics.h(1008): note: 'ofRotate' の宣言を確認してください
+C:\Users\lunae\Desktop\of0.10.1\addons\ofxShadow\examples\simpleExample\src\ofApp.cpp(66): warning C4996: 'ofRotate': Use ofRotateDeg or ofRotateRad
+  C:\Users\lunae\Desktop\of0.10.1\libs\openFrameworks\graphics\ofGraphics.h(1008): note: 'ofRotate' の宣言を確認してください
+C:\Users\lunae\Desktop\of0.10.1\addons\ofxShadow\examples\simpleExample\src\ofApp.cpp(73): warning C4996: 'ofRotate': Use ofRotateDeg or ofRotateRad
+  C:\Users\lunae\Desktop\of0.10.1\libs\openFrameworks\graphics\ofGraphics.h(1008): note: 'ofRotate' の宣言を確認してください
+C:\Users\lunae\Desktop\of0.10.1\addons\ofxShadow\examples\simpleExample\src\ofApp.cpp(80): warning C4996: 'ofRotate': Use ofRotateDeg or ofRotateRad
+  C:\Users\lunae\Desktop\of0.10.1\libs\openFrameworks\graphics\ofGraphics.h(1008): note: 'ofRotate' の宣言を確認してください
+C:\Users\lunae\Desktop\of0.10.1\addons\ofxShadow\examples\simpleExample\src\ofApp.cpp(87): warning C4996: 'ofRotate': Use ofRotateDeg or ofRotateRad
+  C:\Users\lunae\Desktop\of0.10.1\libs\openFrameworks\graphics\ofGraphics.h(1008): note: 'ofRotate' の宣言を確認してください
+C:\Users\lunae\Desktop\of0.10.1\addons\ofxShadow\examples\simpleExample\src\ofApp.cpp(94): warning C4996: 'ofRotate': Use ofRotateDeg or ofRotateRad
+  C:\Users\lunae\Desktop\of0.10.1\libs\openFrameworks\graphics\ofGraphics.h(1008): note: 'ofRotate' の宣言を確認してください
+     ライブラリ bin\simpleExample_debug.lib とオブジェクト bin\simpleExample_debug.exp を作成中
+  simpleExample.vcxproj -> C:\Users\lunae\Desktop\of0.10.1\addons\ofxShadow\examples\simpleExample\bin\simpleExample_debug.exe
+  
+  	                   2	C:\Users\lunae\Desktop\of0.10.1\libs\fmodex\lib\vs\Win32\
+  	  *EXTRA File 		 6018560	C:\Users\lunae\Desktop\of0.10.1\addons\ofxShadow\examples\simpleExample\bin\FreeImage.dll
+  
+  	                   1	C:\Users\lunae\Desktop\of0.10.1\libs\FreeImage\lib\vs\Win32\
+  	  *EXTRA File 		 1266176	C:\Users\lunae\Desktop\of0.10.1\addons\ofxShadow\examples\simpleExample\bin\fmodex.dll
+  	  *EXTRA File 		 1312768	C:\Users\lunae\Desktop\of0.10.1\addons\ofxShadow\examples\simpleExample\bin\fmodexL.dll
