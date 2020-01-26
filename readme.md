@@ -37,12 +37,12 @@ void setup() {
 
 void draw() {
     shadow.beginDepth();
-    < RENDER SCENE >
+    <-- RENDER SCENE -->
     shadow.endDepth();
 
     shadow.begin(cam);
-    < RENDER SCENE >
-    shadow.end();
+    <-- RENDER SCENE -->
+    shadow.end(cam);
 }
 ```
 
