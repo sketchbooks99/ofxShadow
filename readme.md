@@ -48,4 +48,5 @@ void draw() {
 
 ## TODO:
 - Multiple shadow
-- Add SSAO pass
+- Add SSAO pass]
+- Enable to cast shadow to custom shaded object
