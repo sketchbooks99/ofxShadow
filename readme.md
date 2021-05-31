@@ -1,7 +1,6 @@
 # ofxShadow
 
-An addon simply to cast shadow.
-This addon is created mainly by referreing to following site.
+This addon is easily to cast shadow on scene geometries. Implementation is mainly based on the following site.
 https://github.com/yasuhirohoshino/oF-ShadowExamples
 
 ## Version
